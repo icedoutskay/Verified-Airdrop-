@@ -36,29 +36,25 @@ Projects can:
 
 ## Getting Started
 
-### 1. Clone the repo
+1. Clone the repo
  
-
 ```bash
 git clone https://github.com/your-username/verified-airdrop.git
 cd verified-airdrop
 
-### 2. Install Dependencies
-
+2. Install Dependencies
 
 ```bash
 npm install
 
-### 3. Set up environment variables
-
+3. Set up environment variables
 
 ```bash
 Create a .env.local file with:
 NEXT_PUBLIC_CIVIC_GATEKEEPER_NETWORK=...
 NEXT_PUBLIC_SOLANA_NETWORK=...
 
-### 4. Start the dev server
-
+4. Start the dev server
 
 ```bash
 npm run dev
